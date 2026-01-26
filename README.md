@@ -21,12 +21,12 @@ My philosophy is to bridge the gap between brilliant quantitative ideas and prod
 
 | Category                | Technologies                                                                                             |
 | ------------------------| -------------------------------------------------------------------------------------------------------- |
-| **Languages**           | Python, PostgreSQL, Go (learning), Rust (exploring)                                                      |
+| **Languages**           | Python, PostgreSQL, Go and  Rust                                                                         |
 | **Backend & API**       | FastAPI, WebSocket, gRPC                                                                                 |
 | **Data & Streaming**    | Apache Spark, Apache Airflow, Kafka, Delta Lake, PostgreSQL, Redis, Scrapy, Playwright, Pandas           |
 | **DevOps & Infra**      | Kubernetes, Docker, Terraform, Jenkins, ArgoCD, GitHub Actions, AWS, GCP, Prometheus, Grafana, Vault     |
 | **AI & ML**             | LangChain, HuggingFace Transformers, scikit-learn, MLflow, DVC                                           |
-| **Frontend (Familiar)** | React, Tailwind CSS                                                                                      |
+
 
 ---
 
