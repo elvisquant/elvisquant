@@ -21,8 +21,8 @@ My philosophy is to bridge the gap between brilliant quantitative ideas and prod
 
 | Category                | Technologies                                                                                             |
 | ------------------------| -------------------------------------------------------------------------------------------------------- |
-| **Languages**           | Python, PostgreSQL, Go and  Rust                                                                         |
-| **Backend & API**       | FastAPI, WebSocket, gRPC                                                                                 |
+| **Languages**           | Python, PostgreSQL, Go and  c++                                                                          |
+| **Backend & API**       | Restful APIs, Graphql,WebSocket, gRPC                                                                    |       
 | **Data & Streaming**    | Apache Spark, Apache Airflow, Kafka, Delta Lake, PostgreSQL, Redis, Scrapy, Playwright, Pandas           |
 | **DevOps & Infra**      | Kubernetes, Docker, Terraform, Jenkins, ArgoCD, GitHub Actions, AWS, GCP, Prometheus, Grafana, Vault     |
 | **AI & ML**             | LangChain, HuggingFace Transformers, scikit-learn, MLflow, DVC                                           |
@@ -48,7 +48,7 @@ Below are conceptual projects that represent the type of challenges I'm passiona
 ### 🌱 What I'm Focused On Now
 
 I'm always learning and pushing the boundaries of my knowledge. My current areas of interest are:
-*   Building ultra-low-latency systems using **Rust** and **Go**.
+*   Building ultra-low-latency systems using **Go** and **c++**.
 *   Fine-tuning **Large Language Models (LLMs)** on proprietary financial text for specific domain tasks.
 *   Advanced **Kubernetes** networking and security for high-performance computing workloads.
 
@@ -61,7 +61,7 @@ I'm always open to discussing new ideas, collaborating on projects, or exploring
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvisquant)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvispronda/elvisquant)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvisquant)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@elvisquant)
-[![Website](https://img.shields.io/badge/-Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quant.dev)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elvisquant)
+[![Website](https://img.shields.io/badge/-Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bindava.dev)
+
