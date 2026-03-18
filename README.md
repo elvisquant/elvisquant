@@ -21,7 +21,7 @@ My philosophy is to bridge the gap between brilliant quantitative ideas and prod
 
 | Category                | Technologies                                                                                             |
 | ------------------------| -------------------------------------------------------------------------------------------------------- |
-| **Languages**           | Python, PostgreSQL, Go and  c++                                                                          |
+| **Languages**           | Python, PostgreSQL, Go and  C++                                                                          |
 | **Backend & API**       | Restful APIs, Graphql,WebSocket, gRPC                                                                    |       
 | **Data & Streaming**    | Apache Spark, Apache Airflow, Kafka, Delta Lake, PostgreSQL, Redis, Scrapy, Playwright, Pandas           |
 | **DevOps & Infra**      | Kubernetes, Docker, Terraform, Jenkins, ArgoCD, GitHub Actions, AWS, GCP, Prometheus, Grafana, Vault     |
@@ -48,7 +48,7 @@ Below are conceptual projects that represent the type of challenges I'm passiona
 ### 🌱 What I'm Focused On Now
 
 I'm always learning and pushing the boundaries of my knowledge. My current areas of interest are:
-*   Building ultra-low-latency systems using **Go** and **c++**.
+*   Building ultra-low-latency systems using **Go** and **C++**.
 *   Fine-tuning **Large Language Models (LLMs)** on proprietary financial text for specific domain tasks.
 *   Advanced **Kubernetes** networking and security for high-performance computing workloads.
 
